@@ -1,1 +1,5 @@
-/*    http://localhost:8082/:splat    200
+[[redirects]]
+  from = "/*"
+  to = "http://localhost:8082/:splat"
+  status = 200
+
