@@ -1,8 +1,7 @@
 <h1>Sobre esse projeto</h1>
 <p>Meu segundo CRUD em JavaScript utilizando NodeJs, Express e  MongoDB.</p>
 
-## link do projeto: https://blogapp-production-7dc7.up.railway.app/
-
+## link do projeto: https://blogapp-trtz.onrender.com
 ## Ferramentas usadas no projeto: 
 - express-handlebars
 - body-parser
