@@ -135,5 +135,5 @@ app.use('/admin', admin) // Com isso as rotas ganham o prefixo de ''admin''
 // Servidor
 const PORT = process.env.PORT || 8082
 app.listen(PORT, () => {
-    console.log('Servidor rodando!');
+    console.log('Servidor rodando na porta 8082!');
 });
